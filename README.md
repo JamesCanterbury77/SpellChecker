@@ -197,7 +197,7 @@ Answer: These should be ignored and input should not contain special characters 
 
 ---
 ### Troubleshooting/Where to Get Support
-Make sure you have read the section of this document that is labeled *Instructions for Use*.
+Make sure you have read the section of this document that is labeled [Instructions for Use](#instructions-for-use).
 
 If you need help with getting the program to work you can email the writer at canterburyjr@appstate.edu.
 
@@ -208,7 +208,7 @@ If you wish to add extra functionality or anything of the sort you may modify th
 ---
 ### Licensing
 
-Not sure what is supposed to go here
+Licensing
 
 ---
 ### Instructions for Use
