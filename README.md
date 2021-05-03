@@ -216,7 +216,7 @@ Licensing
 How to run the program
 <ul>
 <li>Download the four files needed into a directory</li>
-<li>Compile the .java files by typing javac *.java to compile all of them or do them seprately by java [insert filename here]/java</li>
+<li>Compile the .java files by typing javac *.java to compile all of them or do them seprately by java [insert filename here].java</li>
 <li>Run the program by java SpellChecker</li>
 <li>Next you must enter a word that is all lower case and has no special characters</li>
 <li>After you press enter it will either say the word is correct or it will say it is incorrect and suggest alternatives</li>
